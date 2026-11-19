@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 55000,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Keyboard",
+    "price": 1200,
+    "category": "Accessories"
+  },
+  {
+    "id": 3,
+    "name": "mouse",
+    "price": 500,
+    "category": "accessory"
+  },
+  {
+    "id": 4,
+    "name": "data cable",
+    "price": 300,
+    "category": "accessories"
+  }
+]
